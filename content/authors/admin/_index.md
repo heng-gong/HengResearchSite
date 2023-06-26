@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Heng Gong 龚亨
+title: Heng Gong
 
 # Full name (for SEO)
 first_name: Heng
